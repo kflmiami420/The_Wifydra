@@ -36,14 +36,15 @@ Name	Quantity	Manufacturer Part	Manufacturer
 # What to flash with what
 
 The Dom.ino file goes on the main esp32-s3 that has the tft screen. 
-
+#
 Libraries needed in Arduino IDE to be installed 
- SoftwareSerial        // include library code to allow serial communication on other digital pins of the Arduino board
- TinyGPS++            // include the library code for GPS module
- Adafruit_ssd1306syp   // include Adafruit_ssd1306syp library for OLED display
- ESP8266WiFi 
- espnow 
- SD 
+ ##
+ # SoftwareSerial        // include library code to allow serial communication on other digital pins of the Arduino board
+ # TinyGPS++            // include the library code for GPS module
+ # Adafruit_ssd1306syp   // include Adafruit_ssd1306syp library for OLED display
+# ESP8266WiFi 
+# espnow 
+# SD 
 
 
 
